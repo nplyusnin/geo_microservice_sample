@@ -1,0 +1,5 @@
+app:
+  name: geo
+logger:
+  path: log/app.log
+  level: info
